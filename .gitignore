@@ -1,0 +1,16 @@
+
+# Auto-added before archive:
+.venv/
+venv/
+ENV/
+env/
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.runtime/
+*.log
+.DS_Store
+FILES_INCLUDED.txt
+restore.command
+README_ARCHIVED.md
